@@ -31,10 +31,16 @@
 </template>
 
 <script>
+import axios from 'axios'
 export default {
   name: 'HelloWorld',
   props: {
     msg: String
+  },
+  mounted(){
+    axios.get("https://www.dingshiyi.top:9002/article/get_articles?limit=8&page=1&type=1").then(res=>{
+      console.log(res);
+    })
   }
 }
 </script>
