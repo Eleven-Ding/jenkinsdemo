@@ -5753,6 +5753,11 @@
   "resolved" "https://registry.npmmirror.com/node-releases/download/node-releases-2.0.1.tgz"
   "version" "2.0.1"
 
+"nodemailer@^6.7.2":
+  "integrity" "sha512-Dz7zVwlef4k5R71fdmxwR8Q39fiboGbu3xgswkzGwczUfjp873rVxt1O46+Fh0j1ORnAC6L9+heI8uUpO6DT7Q=="
+  "resolved" "https://mirrors.tencent.com/npm/nodemailer/-/nodemailer-6.7.2.tgz"
+  "version" "6.7.2"
+
 "normalize-package-data@^2.5.0":
   "integrity" "sha1-5m2xg4sgDB38IzIl0SyzZSDiNKg="
   "resolved" "https://registry.nlark.com/normalize-package-data/download/normalize-package-data-2.5.0.tgz?cache=0&sync_timestamp=1629301872905&other_urls=https%3A%2F%2Fregistry.nlark.com%2Fnormalize-package-data%2Fdownload%2Fnormalize-package-data-2.5.0.tgz"
